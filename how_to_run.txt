@@ -1,0 +1,18 @@
+I couldnt turn the game into an executable so i had to write this
+
+follow these steps to run the game properly:
+
+1) Download and install pygame:
+    
+    On Windows:
+        1) Press WinKey + R to open the run prompt.
+
+        2) Enter "cmd" and press enter.
+
+        3) Enter and run the following command in the opened window: "pip install pygame"
+
+        4) After it is finished, simply run the file "main.py".
+
+
+Hope you enjoy it!
+            
