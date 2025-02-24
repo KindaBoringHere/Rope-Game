@@ -181,7 +181,6 @@ while True:
     clock.tick(TARGET_FPS)
     mouse_pos = pygame.mouse.get_pos()
     current_time = pygame.time.get_ticks()
-    print("test")
     elapsed_time = current_time - start_time
 
     # Calculate the interpolation factor (t) based on the elapsed time
